@@ -1,0 +1,7 @@
+public class EkranBastirma{
+public static void main (String[]args){
+int a=5 ;
+Sytem.out.println("Degiskenin degeri"+a);
+
+}
+}
